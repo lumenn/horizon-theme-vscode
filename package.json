@@ -1,0 +1,23 @@
+{
+    "name": "lumenns-horizon-theme",
+    "displayName": "Lúmenn's Horizon",
+    "description": "Horizon Theme, with Azure Data Studio support.",
+    "publisher": "Lúmenn",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.84.0",
+        "azdata": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lúmenn's Horizon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Lumenns-Horizon.json"
+            }
+        ]
+    }
+}
