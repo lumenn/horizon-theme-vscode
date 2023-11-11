@@ -1,3 +1,3 @@
 # README
 
-## This is a custom edit of [https://horizontheme.netlify.app/](Horizon Theme)
+## This is a custom edit of [Horizon Theme](https://horizontheme.netlify.app/)
